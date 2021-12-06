@@ -1,0 +1,13 @@
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\bin\Debug\netcoreapp3.1\VaiTerCopa.exe
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\bin\Debug\netcoreapp3.1\VaiTerCopa.deps.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\bin\Debug\netcoreapp3.1\VaiTerCopa.runtimeconfig.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\bin\Debug\netcoreapp3.1\VaiTerCopa.runtimeconfig.dev.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\bin\Debug\netcoreapp3.1\VaiTerCopa.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\bin\Debug\netcoreapp3.1\VaiTerCopa.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\obj\Debug\netcoreapp3.1\VaiTerCopa.csprojAssemblyReference.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\obj\Debug\netcoreapp3.1\VaiTerCopa.AssemblyInfoInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\obj\Debug\netcoreapp3.1\VaiTerCopa.AssemblyInfo.cs
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\obj\Debug\netcoreapp3.1\VaiTerCopa.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\obj\Debug\netcoreapp3.1\VaiTerCopa.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\obj\Debug\netcoreapp3.1\VaiTerCopa.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\VaiTerCopa\VaiTerCopa\obj\Debug\netcoreapp3.1\VaiTerCopa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\obj\Debug\netcoreapp3.1\Xenlongão.csprojAssemblyReference.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\obj\Debug\netcoreapp3.1\Xenlongão.AssemblyInfoInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\obj\Debug\netcoreapp3.1\Xenlongão.AssemblyInfo.cs
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\obj\Debug\netcoreapp3.1\Xenlongão.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\bin\Debug\netcoreapp3.1\Xenlongão.exe
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\bin\Debug\netcoreapp3.1\Xenlongão.deps.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\bin\Debug\netcoreapp3.1\Xenlongão.runtimeconfig.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\bin\Debug\netcoreapp3.1\Xenlongão.runtimeconfig.dev.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\bin\Debug\netcoreapp3.1\Xenlongão.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\bin\Debug\netcoreapp3.1\Xenlongão.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\obj\Debug\netcoreapp3.1\Xenlongão.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\obj\Debug\netcoreapp3.1\Xenlongão.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\Xenlongão\Xenlongão\obj\Debug\netcoreapp3.1\Xenlongão.genruntimeconfig.cache

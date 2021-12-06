@@ -1,0 +1,13 @@
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\obj\Debug\netcoreapp3.1\QuadradodsoValores.csprojAssemblyReference.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\obj\Debug\netcoreapp3.1\QuadradodsoValores.AssemblyInfoInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\obj\Debug\netcoreapp3.1\QuadradodsoValores.AssemblyInfo.cs
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\obj\Debug\netcoreapp3.1\QuadradodsoValores.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\bin\Debug\netcoreapp3.1\QuadradodsoValores.exe
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\bin\Debug\netcoreapp3.1\QuadradodsoValores.deps.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\bin\Debug\netcoreapp3.1\QuadradodsoValores.runtimeconfig.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\bin\Debug\netcoreapp3.1\QuadradodsoValores.runtimeconfig.dev.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\bin\Debug\netcoreapp3.1\QuadradodsoValores.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\bin\Debug\netcoreapp3.1\QuadradodsoValores.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\obj\Debug\netcoreapp3.1\QuadradodsoValores.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\obj\Debug\netcoreapp3.1\QuadradodsoValores.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\QuadradodsoValores\QuadradodsoValores\obj\Debug\netcoreapp3.1\QuadradodsoValores.genruntimeconfig.cache

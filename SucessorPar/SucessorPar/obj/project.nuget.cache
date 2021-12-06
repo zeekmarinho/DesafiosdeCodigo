@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wq40OcRFk/gi4izubpaMbJH0krjSJKpYt2RdCXxu24Lk+0b/IPY50ytodWnsd8HR3PX/GTJBjAH/MtbETLJRbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DANIEL.PC\\Desktop\\Decola Tech 2a Edição AVANADE\\Códigos\\Desafios\\SucessorPar\\SucessorPar\\SucessorPar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL.PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

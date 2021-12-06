@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dkyp2zBl1UMZIFqWY/BOHVjiTLT7lLPsAWZ1JRuKPLjPS3JpoXrsRZmOquMEJY4e7+aOtlG9mN3jJ/o9PxegWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DANIEL.PC\\Desktop\\Decola Tech 2a Edição AVANADE\\Códigos\\Desafios\\VaiTerCopa\\VaiTerCopa\\VaiTerCopa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL.PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

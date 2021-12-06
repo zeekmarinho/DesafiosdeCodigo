@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "me4dL9tmFGltQuqATzeyhG/6fl8Oe9yg2aPKZuVL223MY5PPad8VcMnswhUJf7XuG1XLcVS47aFaKpHbpSWJeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DANIEL.PC\\Desktop\\Decola Tech 2a Edição AVANADE\\Códigos\\Desafios\\Xenlongão\\Xenlongão\\Xenlongão.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL.PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

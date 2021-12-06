@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nNZkRKxf1UrkLrmd9MbEJDuxKaKxTnmJM42rwGKzeIUf8hEvUMAS+ddWLA2TQSm2amJgCkWLvA7pAX0yqm+VMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DANIEL.PC\\Desktop\\Decola Tech 2a Edição AVANADE\\Códigos\\Desafios\\CalcularaValorS\\CalcularaValorS\\CalcularaValorS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL.PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

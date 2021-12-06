@@ -1,0 +1,13 @@
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\bin\Debug\netcoreapp3.1\CalcularaValorS.exe
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\bin\Debug\netcoreapp3.1\CalcularaValorS.deps.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\bin\Debug\netcoreapp3.1\CalcularaValorS.runtimeconfig.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\bin\Debug\netcoreapp3.1\CalcularaValorS.runtimeconfig.dev.json
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\bin\Debug\netcoreapp3.1\CalcularaValorS.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\bin\Debug\netcoreapp3.1\CalcularaValorS.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\obj\Debug\netcoreapp3.1\CalcularaValorS.csprojAssemblyReference.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\obj\Debug\netcoreapp3.1\CalcularaValorS.AssemblyInfoInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\obj\Debug\netcoreapp3.1\CalcularaValorS.AssemblyInfo.cs
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\obj\Debug\netcoreapp3.1\CalcularaValorS.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\obj\Debug\netcoreapp3.1\CalcularaValorS.dll
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\obj\Debug\netcoreapp3.1\CalcularaValorS.pdb
+C:\Users\DANIEL.PC\Desktop\Decola Tech 2a Edição AVANADE\Códigos\Desafios\CalcularaValorS\CalcularaValorS\obj\Debug\netcoreapp3.1\CalcularaValorS.genruntimeconfig.cache
